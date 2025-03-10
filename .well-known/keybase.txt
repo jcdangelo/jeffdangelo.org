@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jcdpsuedu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeffdangelo.org
+  * I am jcdpsuedu (https://keybase.io/jcdpsuedu) on keybase.
+  * I have a public key ASDXFvW5CtLnuSNJmWFWrxrjte2uyCTV9mHOEN1NNh3KSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e1ea9b9a54bbf16dcbac2cc6262e345ae57d1d94b8cf49fead98ea8a8d86aaf50a",
+      "host": "keybase.io",
+      "kid": "0120d716f5b90ad2e7b92349996156af1ae3b5edaec824d5f661ce10dd4d361dca4a0a",
+      "uid": "a07ac5c3b48f30923c15a779e93b3819",
+      "username": "jcdpsuedu"
+    },
+    "merkle_root": {
+      "ctime": 1741636420,
+      "hash": "9600d0fe2712705c67fbd2e54edd34f2bb3cd60ac0c6cb1340c110dfe8e233e45f8ccbf0220d731e95ec808eaebd50404aff9a47b02811d8e891d85492861531",
+      "hash_meta": "dd03a7b15afbfe712d92a6ef3c07ec3d1e940c0bc405282924d55c0eed3927c9",
+      "seqno": 26617239
+    },
+    "service": {
+      "entropy": "K22/LuATNW/fEmWV2nC5zbUU",
+      "hostname": "jeffdangelo.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.0"
+  },
+  "ctime": 1741636500,
+  "expire_in": 504576000,
+  "prev": "5756bf89b57b9c992407a34fa899795ae8d7b414ce9f590fc1b91843f999841a",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1xb1uQrS57kjSZlhVq8a47Xtrsgk1fZhzhDdTTYdykoKp3BheWxvYWTESpcCL8QgV1a/ibV7nJkkB6NPqJl5WujXtBTOn1kPwbkYQ/mZhBrEINBjQGzlnfDFj2sLpHd4jMBe8HJFzUCNBa8NsknyrCjlAgHCo3NpZ8RABZrmW3rg9ty9h8YB2od6mCJXMIW86356/XNyj3L0EEEPaVoq/IODynDpczRqj6C7bIp45c1e6zhihLmaWYc/AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJTSoQMAhr5rQH9YtyPvX6flgpzVbmACJspqo12ZWrFLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jcdpsuedu
+
+==================================================================
